@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MnC App</string>
+    <string name="footer">Made with ♥ by Vishal Singh</string>
+    <string name="result">Result</string>
+    <string name="info">Info</string>
+    <string name="total_students_50">Total Students : 50</string>
+    <string name="mnc_data">MnC Data</string>
+    <string name="vishal_singh">Vishal Singh</string>
+    <string name="hello">Hello</string>
+    <string name="lunch">Lunch</string>
+    <string name="snacks">Snacks</string>
+    <string name="dinner">Dinner</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="mnc_result">MnC Result</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="update_name">Update Name</string>
+</resources>

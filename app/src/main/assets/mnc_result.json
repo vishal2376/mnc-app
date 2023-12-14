@@ -1,0 +1,249 @@
+{
+  "result": [
+    {
+      "roll": "21BMA001",
+      "name": "ARJUN SINGH",
+      "cgpa": "8.17"
+    },
+    {
+      "roll": "21BMA002",
+      "name": "AKSHIT GUPTA",
+      "cgpa": "7.15"
+    },
+    {
+      "roll": "21BMA003",
+      "name": "MEHUL AGGARWAL",
+      "cgpa": "9"
+    },
+    {
+      "roll": "21BMA005",
+      "name": "SIDDHARTH SINGH",
+      "cgpa": "8.25"
+    },
+    {
+      "roll": "21BMA006",
+      "name": "HARDIK SACHDEVA",
+      "cgpa": "9.23"
+    },
+    {
+      "roll": "21BMA007",
+      "name": "NAVYA SHARMA",
+      "cgpa": "0"
+    },
+    {
+      "roll": "21BMA008",
+      "name": "YACHANA ARORA",
+      "cgpa": "8.77"
+    },
+    {
+      "roll": "21BMA009",
+      "name": "ARMAAN SHUKLA",
+      "cgpa": "9.25"
+    },
+    {
+      "roll": "21BMA010",
+      "name": "MRIGESH THAKUR",
+      "cgpa": "9.6"
+    },
+    {
+      "roll": "21BMA011",
+      "name": "SHASHANK SHARMA",
+      "cgpa": "8.46"
+    },
+    {
+      "roll": "21BMA012",
+      "name": "OM BHARDWAJ",
+      "cgpa": "6.94"
+    },
+    {
+      "roll": "21BMA013",
+      "name": "MAANAS SOOD",
+      "cgpa": "9.29"
+    },
+    {
+      "roll": "21BMA014",
+      "name": "ANURAG VERMA",
+      "cgpa": "7.83"
+    },
+    {
+      "roll": "21BMA015",
+      "name": "CHAITANYA KOHLI",
+      "cgpa": "7.9"
+    },
+    {
+      "roll": "21BMA016",
+      "name": "DHARUVA THAKUR",
+      "cgpa": "8.75"
+    },
+    {
+      "roll": "21BMA017",
+      "name": "AKANKSHA SHARMA",
+      "cgpa": "9.6"
+    },
+    {
+      "roll": "21BMA018",
+      "name": "ARUSHI GULERIA",
+      "cgpa": "9.27"
+    },
+    {
+      "roll": "21BMA019",
+      "name": "ARPAN GUPTA",
+      "cgpa": "8.27"
+    },
+    {
+      "roll": "21BMA020",
+      "name": "AVIRAJ GOUR",
+      "cgpa": "8.33"
+    },
+    {
+      "roll": "21BMA021",
+      "name": "DEVESH KUMAR",
+      "cgpa": "6.75"
+    },
+    {
+      "roll": "21BMA022",
+      "name": "SHWETA MANGLA",
+      "cgpa": "8.5"
+    },
+    {
+      "roll": "21BMA023",
+      "name": "ADARSH KUMAR RAO",
+      "cgpa": "7.23"
+    },
+    {
+      "roll": "21BMA024",
+      "name": "YOGESH KUMAR",
+      "cgpa": "7.83"
+    },
+    {
+      "roll": "21BMA025",
+      "name": "VIVEK PRAKASH YADAV",
+      "cgpa": "7.29"
+    },
+    {
+      "roll": "21BMA026",
+      "name": "SAROJ KUMAR MAHTO",
+      "cgpa": "7.27"
+    },
+    {
+      "roll": "21BMA027",
+      "name": "SAHIL SIHAG",
+      "cgpa": "8.27"
+    },
+    {
+      "roll": "21BMA028",
+      "name": "PRIYANSHU SINGH",
+      "cgpa": "7.69"
+    },
+    {
+      "roll": "21BMA029",
+      "name": "NISHANT THAPA",
+      "cgpa": "8.38"
+    },
+    {
+      "roll": "21BMA030",
+      "name": "KINSHUK RAJ",
+      "cgpa": "8.38"
+    },
+    {
+      "roll": "21BMA031",
+      "name": "SUNNY KUMAR",
+      "cgpa": "7.85"
+    },
+    {
+      "roll": "21BMA032",
+      "name": "GAGANPREET KAUR",
+      "cgpa": "8.58"
+    },
+    {
+      "roll": "21BMA033",
+      "name": "DEEPAK KUMAR",
+      "cgpa": "7.75"
+    },
+    {
+      "roll": "21BMA034",
+      "name": "SHANTUN KUMAR",
+      "cgpa": "8.17"
+    },
+    {
+      "roll": "21BMA035",
+      "name": "KOMAL",
+      "cgpa": "8.58"
+    },
+    {
+      "roll": "21BMA036",
+      "name": "DEEPANSH BHATIA",
+      "cgpa": "6.94"
+    },
+    {
+      "roll": "21BMA037",
+      "name": "SNEH MEHRA",
+      "cgpa": "8.69"
+    },
+    {
+      "roll": "21BMA038",
+      "name": "SOUVIK GARAI",
+      "cgpa": "6.71"
+    },
+    {
+      "roll": "21BMA039",
+      "name": "LAKSHAY KUMAR",
+      "cgpa": "7.12"
+    },
+    {
+      "roll": "21BMA040",
+      "name": "ABHIMANYU",
+      "cgpa": "7.79"
+    },
+    {
+      "roll": "21BMA041",
+      "name": "MANISH KUMAR VERMA",
+      "cgpa": "8.42"
+    },
+    {
+      "roll": "21BMA042",
+      "name": "HARSH DEV",
+      "cgpa": "7.88"
+    },
+    {
+      "roll": "21BMA043",
+      "name": "MUSKAAN",
+      "cgpa": "8.56"
+    },
+    {
+      "roll": "21BMA044",
+      "name": "VISHAL SINGH",
+      "cgpa": "7.31"
+    },
+    {
+      "roll": "21BMA045",
+      "name": "SARTHAK AHIR",
+      "cgpa": "7.65"
+    },
+    {
+      "roll": "21BMA046",
+      "name": "ADITI",
+      "cgpa": "8.21"
+    },
+    {
+      "roll": "21BMA047",
+      "name": "SURAJ KUMAR",
+      "cgpa": "6.85"
+    },
+    {
+      "roll": "21BMA048",
+      "name": "VAIBHAV SHARMA",
+      "cgpa": "7.65"
+    },
+    {
+      "roll": "21BMA049",
+      "name": "NISHANT KUMAR MEENA",
+      "cgpa": "7.54"
+    },
+    {
+      "roll": "21BMA050",
+      "name": "PALAK RAJ",
+      "cgpa": "8.42"
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "result": [
+    {
+      "roll": "21BCS001",
+      "name": "KUNAL SHARMA",
+      "cgpa": "0"
+    },
+    {
+      "roll": "21BCS002",
+      "name": "HARSHIT",
+      "cgpa": "6.73"
+    },
+    {
+      "roll": "21BCS003",
+      "name": "SYED MOHD MUSTAFA",
+      "cgpa": "9.08"
+    },
+    {
+      "roll": "21BCS004",
+      "name": "KESHAV MITTAL",
+      "cgpa": "9.02"
+    },
+    {
+      "roll": "21BCS005",
+      "name": "ABHISHEK KUMAR",
+      "cgpa": "8.56"
+    },
+    {
+      "roll": "21BCS006",
+      "name": "QUTAIBA MOHAMMED ANSARI",
+      "cgpa": "8.67"
+    },
+    {
+      "roll": "21BCS007",
+      "name": "RISHABH RAJ",
+      "cgpa": "9.23"
+    },
+    {
+      "roll": "21BCS008",
+      "name": "ARYAN TYAGI",
+      "cgpa": "8.9"
+    },
+    {
+      "roll": "21BCS009",
+      "name": "RAJU KUMAR",
+      "cgpa": "7.75"
+    },
+    {
+      "roll": "21BCS010",
+      "name": "MANAS GUPTA",
+      "cgpa": "9.31"
+    },
+    {
+      "roll": "21BCS011",
+      "name": "KSHITIJ DABORIA",
+      "cgpa": "8.35"
+    },
+    {
+      "roll": "21BCS012",
+      "name": "NEERAJ KHATRI",
+      "cgpa": "9.44"
+    },
+    {
+      "roll": "21BCS013",
+      "name": "ADITYA KRISHNA GAUR",
+      "cgpa": "8.69"
+    },
+    {
+      "roll": "21BCS014",
+      "name": "SHAGUN BADANGARHIA",
+      "cgpa": "8.92"
+    },
+    {
+      "roll": "21BCS015",
+      "name": "ASTITVA DUBEY",
+      "cgpa": "9.58"
+    },
+    {
+      "roll": "21BCS016",
+      "name": "JILS",
+      "cgpa": "9.35"
+    },
+    {
+      "roll": "21BCS017",
+      "name": "JASMEET KAUR",
+      "cgpa": "9.1"
+    },
+    {
+      "roll": "21BCS018",
+      "name": "DUSHYANT",
+      "cgpa": "9.17"
+    },
+    {
+      "roll": "21BCS019",
+      "name": "DIKSHANT KUMAR SHARMA",
+      "cgpa": "8.85"
+    },
+    {
+      "roll": "21BCS020",
+      "name": "AKSHUN KUTHIALA",
+      "cgpa": "9.1"
+    },
+    {
+      "roll": "21BCS021",
+      "name": "SATVIK SHARMA",
+      "cgpa": "8.83"
+    },
+    {
+      "roll": "21BCS022",
+      "name": "ISHAN GULERIA",
+      "cgpa": "8.56"
+    },
+    {
+      "roll": "21BCS023",
+      "name": "GURKIRAT KAUR",
+      "cgpa": "9.33"
+    },
+    {
+      "roll": "21BCS024",
+      "name": "AKHIL SHARMA",
+      "cgpa": "9.52"
+    },
+    {
+      "roll": "21BCS025",
+      "name": "SAMARTH SHARMA",
+      "cgpa": "7.04"
+    },
+    {
+      "roll": "21BCS026",
+      "name": "ARYA VASISHTH",
+      "cgpa": "8.92"
+    },
+    {
+      "roll": "21BCS027",
+      "name": "PUSHPENDER",
+      "cgpa": "9.62"
+    },
+    {
+      "roll": "21BCS028",
+      "name": "VANSHIKA GOVINDANI",
+      "cgpa": "9.5"
+    },
+    {
+      "roll": "21BCS029",
+      "name": "RAVIDEEP SINGH",
+      "cgpa": "8.98"
+    },
+    {
+      "roll": "21BCS030",
+      "name": "SHIVANSHU THAKUR",
+      "cgpa": "8.83"
+    },
+    {
+      "roll": "21BCS031",
+      "name": "ADITYA BHANU GARG",
+      "cgpa": "8.88"
+    },
+    {
+      "roll": "21BCS032",
+      "name": "TUSHAR PRAKASH KAUSHAL",
+      "cgpa": "9.29"
+    },
+    {
+      "roll": "21BCS033",
+      "name": "SUJAL SHARMA",
+      "cgpa": "8.08"
+    },
+    {
+      "roll": "21BCS034",
+      "name": "BHARAT BHUSHAN",
+      "cgpa": "8.73"
+    },
+    {
+      "roll": "21BCS035",
+      "name": "SOURAV SHARMA",
+      "cgpa": "7.44"
+    },
+    {
+      "roll": "21BCS036",
+      "name": "ARPIT SHARMA",
+      "cgpa": "8.73"
+    },
+    {
+      "roll": "21BCS037",
+      "name": "NAVDEEP KAUR",
+      "cgpa": "9.58"
+    },
+    {
+      "roll": "21BCS038",
+      "name": "SHIVAM GUPTA",
+      "cgpa": "9.15"
+    },
+    {
+      "roll": "21BCS039",
+      "name": "RUPANSHI SHARMA",
+      "cgpa": "9.77"
+    },
+    {
+      "roll": "21BCS040",
+      "name": "SPRIHA ANAND",
+      "cgpa": "9.5"
+    },
+    {
+      "roll": "21BCS041",
+      "name": "AVNI CHAUHAN",
+      "cgpa": "8.35"
+    },
+    {
+      "roll": "21BCS042",
+      "name": "TANISHA SHARMA",
+      "cgpa": "8.71"
+    },
+    {
+      "roll": "21BCS043",
+      "name": "BUDHARAM SURESH",
+      "cgpa": "7.25"
+    },
+    {
+      "roll": "21BCS044",
+      "name": "ADITYA THAKUR",
+      "cgpa": "7.83"
+    },
+    {
+      "roll": "21BCS045",
+      "name": "KHUSHI VYAS",
+      "cgpa": "7.04"
+    },
+    {
+      "roll": "21BCS046",
+      "name": "HARSHIT RAWAT",
+      "cgpa": "7.62"
+    },
+    {
+      "roll": "21BCS047",
+      "name": "ADITYA GARG",
+      "cgpa": "9.23"
+    },
+    {
+      "roll": "21BCS048",
+      "name": "MUKESH SINGH",
+      "cgpa": "9.02"
+    },
+    {
+      "roll": "21BCS049",
+      "name": "REHAN KHAN",
+      "cgpa": "8.54"
+    },
+    {
+      "roll": "21BCS050",
+      "name": "ADITYA RANA",
+      "cgpa": "8.6"
+    },
+    {
+      "roll": "21BCS051",
+      "name": "DEVESH SINGH",
+      "cgpa": "6.6"
+    },
+    {
+      "roll": "21BCS052",
+      "name": "ASHUTOSH KUMAR SINGH",
+      "cgpa": "8.67"
+    },
+    {
+      "roll": "21BCS053",
+      "name": "GAGAN PRATAP SINGH",
+      "cgpa": "7.98"
+    },
+    {
+      "roll": "21BCS054",
+      "name": "SHASHWAT GUPTA",
+      "cgpa": "9.12"
+    },
+    {
+      "roll": "21BCS055",
+      "name": "TANU",
+      "cgpa": "9.02"
+    },
+    {
+      "roll": "21BCS056",
+      "name": "MANIK BHATIA",
+      "cgpa": "8.06"
+    },
+    {
+      "roll": "21BCS057",
+      "name": "RAMIT GUPTA",
+      "cgpa": "8.83"
+    },
+    {
+      "roll": "21BCS058",
+      "name": "ABHAYA SOOD",
+      "cgpa": "8.44"
+    },
+    {
+      "roll": "21BCS059",
+      "name": "ROHIT VERMA",
+      "cgpa": "8.73"
+    },
+    {
+      "roll": "21BCS060",
+      "name": "ABHINAV CHANDEL",
+      "cgpa": "8.79"
+    },
+    {
+      "roll": "21BCS061",
+      "name": "SPARSH MAHAJAN",
+      "cgpa": "8.48"
+    },
+    {
+      "roll": "21BCS062",
+      "name": "AKSHITA",
+      "cgpa": "8.98"
+    },
+    {
+      "roll": "21BCS063",
+      "name": "SANDEEP SEPAT",
+      "cgpa": "8.06"
+    },
+    {
+      "roll": "21BCS064",
+      "name": "MOHAMMAD AMAAN",
+      "cgpa": "8.75"
+    },
+    {
+      "roll": "21BCS065",
+      "name": "PRASHANT MANHAR",
+      "cgpa": "7.4"
+    },
+    {
+      "roll": "21BCS066",
+      "name": "SUNIL YADAV",
+      "cgpa": "8.06"
+    },
+    {
+      "roll": "21BCS067",
+      "name": "SACHIN KUMAR SHARMA",
+      "cgpa": "8"
+    },
+    {
+      "roll": "21BCS068",
+      "name": "MOHAMMAD JUNED",
+      "cgpa": "7.33"
+    },
+    {
+      "roll": "21BCS069",
+      "name": "AKASH KUMAR",
+      "cgpa": "7.06"
+    },
+    {
+      "roll": "21BCS070",
+      "name": "AMAN VERMA",
+      "cgpa": "8.27"
+    },
+    {
+      "roll": "21BCS071",
+      "name": "YANAGUNDI MAHESH",
+      "cgpa": "6.88"
+    },
+    {
+      "roll": "21BCS072",
+      "name": "ABHISHEK RANJAN",
+      "cgpa": "8.5"
+    },
+    {
+      "roll": "21BCS073",
+      "name": "NITISH KUMAR",
+      "cgpa": "8.48"
+    },
+    {
+      "roll": "21BCS074",
+      "name": "PRAVEEN KUMAR CHAUHAN",
+      "cgpa": "8.27"
+    },
+    {
+      "roll": "21BCS075",
+      "name": "JATIN",
+      "cgpa": "8.38"
+    },
+    {
+      "roll": "21BCS076",
+      "name": "RITU MATWA",
+      "cgpa": "8.6"
+    },
+    {
+      "roll": "21BCS077",
+      "name": "SHREYA BHARTI",
+      "cgpa": "7.67"
+    },
+    {
+      "roll": "21BCS078",
+      "name": "ARYAN",
+      "cgpa": "8.98"
+    },
+    {
+      "roll": "21BCS079",
+      "name": "VANGALA SAHITHYA",
+      "cgpa": "8.17"
+    },
+    {
+      "roll": "21BCS080",
+      "name": "MADHU KUMARI",
+      "cgpa": "8.96"
+    },
+    {
+      "roll": "21BCS081",
+      "name": "TANVI BHOPAL",
+      "cgpa": "9.48"
+    },
+    {
+      "roll": "21BCS082",
+      "name": "RICKY CHAUDHARY",
+      "cgpa": "8.5"
+    },
+    {
+      "roll": "21BCS083",
+      "name": "RAJAT SINGH",
+      "cgpa": "8.5"
+    },
+    {
+      "roll": "21BCS084",
+      "name": "ARYAN SHARMA",
+      "cgpa": "8.52"
+    },
+    {
+      "roll": "21BCS085",
+      "name": "NITIKA",
+      "cgpa": "9.06"
+    },
+    {
+      "roll": "21BCS086",
+      "name": "SAHIL PARASHAR",
+      "cgpa": "6.75"
+    },
+    {
+      "roll": "21BCS087",
+      "name": "KANUSHRIYA SAINI",
+      "cgpa": "9.29"
+    },
+    {
+      "roll": "21BCS088",
+      "name": "KULDEEP KUMAR",
+      "cgpa": "8.6"
+    },
+    {
+      "roll": "21BCS089",
+      "name": "ARPIT SINGH VERMA",
+      "cgpa": "7.92"
+    },
+    {
+      "roll": "21BCS090",
+      "name": "ARYAN PRASHER",
+      "cgpa": "9.38"
+    },
+    {
+      "roll": "21BCS091",
+      "name": "RAMANPREET KAUR",
+      "cgpa": "9.15"
+    },
+    {
+      "roll": "21BCS092",
+      "name": "SHIKHAR KOUNDAL",
+      "cgpa": "8.4"
+    },
+    {
+      "roll": "21BCS093",
+      "name": "SHUBHAM JASWAL",
+      "cgpa": "8.56"
+    },
+    {
+      "roll": "21BCS094",
+      "name": "PARUL KUNDLAS",
+      "cgpa": "8.9"
+    },
+    {
+      "roll": "21BCS095",
+      "name": "SARANDEEP KAUR",
+      "cgpa": "9.12"
+    },
+    {
+      "roll": "21BCS096",
+      "name": "KHIRADE KUNDAN UMESH",
+      "cgpa": "6.23"
+    },
+    {
+      "roll": "21BCS097",
+      "name": "TUSHAR TEKTA",
+      "cgpa": "8.81"
+    },
+    {
+      "roll": "21BCS098",
+      "name": "GAURAV",
+      "cgpa": "8.79"
+    },
+    {
+      "roll": "21BCS099",
+      "name": "NIKHIL SINGH",
+      "cgpa": "7.96"
+    },
+    {
+      "roll": "21BCS100",
+      "name": "SHIVAM",
+      "cgpa": "8.44"
+    },
+    {
+      "roll": "21BCS101",
+      "name": "VIKRANT",
+      "cgpa": "8.77"
+    },
+    {
+      "roll": "21BCS102",
+      "name": "SUMIT KUMAR GAUTAM",
+      "cgpa": "7.94"
+    },
+    {
+      "roll": "21BCS103",
+      "name": "AKSHAT KUMAR",
+      "cgpa": "8.19"
+    },
+    {
+      "roll": "21BCS104",
+      "name": "JASKARAN SINGH",
+      "cgpa": "7.85"
+    },
+    {
+      "roll": "21BCS105",
+      "name": "JEEVAK SHYAMKUMAR SANGODKAR",
+      "cgpa": "6.92"
+    },
+    {
+      "roll": "21BCS107",
+      "name": "PIYUSH",
+      "cgpa": "7.21"
+    },
+    {
+      "roll": "21BCS108",
+      "name": "RAVI KANT",
+      "cgpa": "8.46"
+    },
+    {
+      "roll": "21BCS109",
+      "name": "AKHIL JAMWAL",
+      "cgpa": "8.9"
+    },
+    {
+      "roll": "21BCS110",
+      "name": "AYUSH KUMAR",
+      "cgpa": "8.77"
+    },
+    {
+      "roll": "21BCS111",
+      "name": "JADHAV GAYATRI KRISHNA",
+      "cgpa": "8.56"
+    },
+    {
+      "roll": "21BCS112",
+      "name": "PRIYANKA KUMARI",
+      "cgpa": "8.38"
+    },
+    {
+      "roll": "21BCS113",
+      "name": "ADARSH PAL",
+      "cgpa": "7.54"
+    },
+    {
+      "roll": "21BCS114",
+      "name": "SHIVANI",
+      "cgpa": "8.77"
+    },
+    {
+      "roll": "21BCS115",
+      "name": "SHREYA DHIMAN",
+      "cgpa": "9.29"
+    },
+    {
+      "roll": "21BCS116",
+      "name": "ABHISHEK KUMAR",
+      "cgpa": "8.19"
+    },
+    {
+      "roll": "21BCS117",
+      "name": "VISHNU AVTAR",
+      "cgpa": "7.67"
+    },
+    {
+      "roll": "21BCS118",
+      "name": "SNEHA THAKUR",
+      "cgpa": "9.1"
+    },
+    {
+      "roll": "21BCS119",
+      "name": "ADITYA EKKA",
+      "cgpa": "8.54"
+    },
+    {
+      "roll": "21BCS120",
+      "name": "PRIYADARSHAN HAZARIKA",
+      "cgpa": "7.73"
+    },
+    {
+      "roll": "21BCS121",
+      "name": "VISHAL MEENA",
+      "cgpa": "6.58"
+    },
+    {
+      "roll": "21BCS122",
+      "name": "TALIB HASSAN",
+      "cgpa": "8.21"
+    },
+    {
+      "roll": "21BCS123",
+      "name": "JADAV BINDU PRIYA",
+      "cgpa": "7.12"
+    },
+    {
+      "roll": "21BCS124",
+      "name": "ABHAY",
+      "cgpa": "7.69"
+    },
+    {
+      "roll": "21BCS125",
+      "name": "YASH KAPOOR",
+      "cgpa": "6.48"
+    }
+  ]
+}

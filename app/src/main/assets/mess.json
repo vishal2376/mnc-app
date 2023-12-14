@@ -1,0 +1,74 @@
+{
+  "mess": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "food": {
+        "breakfast": "Boiled Eggs/Bread Jam + Cornflakes + Milk",
+        "lunch": "Seasonal Veg + Dal Makhni + Raita",
+        "snacks": "Tea",
+        "dinner": "Shahi Paneer + Dal Chana + Gulab Jamun"
+      }
+    },
+    {
+      "id": 2,
+      "day": "Tuesday",
+      "food": {
+        "breakfast": "Aloo Parantha + Milk + Butter",
+        "lunch": "Kale Chane + Curd + Papad",
+        "snacks": "Tea + Kachori",
+        "dinner": "Seasonal Veg + Sabut Masar + Custard"
+      }
+    },
+    {
+      "id": 3,
+      "day": "Wednesday",
+      "food": {
+        "breakfast": "Daliya + Fruit",
+        "lunch": "Pakora Curry + Maah Dal",
+        "snacks": "Tea",
+        "dinner": "Chicken/Matar Paneer + Moongi"
+      }
+    },
+    {
+      "id": 4,
+      "day": "Thursday",
+      "food": {
+        "breakfast": "Wada + Bread + Jam + Boiled Eggs + Milk",
+        "lunch": "Soya Chap + Sambhar",
+        "snacks": "Coffee",
+        "dinner": "Dry Chana + Moongi + Icecream"
+      }
+    },
+    {
+      "id": 5,
+      "day": "Friday",
+      "food": {
+        "breakfast": "Mix Parantha + Butter + Milk",
+        "lunch": "Aloo Matar + Rongi + Curd",
+        "snacks": "Tea + Samosa",
+        "dinner": "Egg Curry/Kofta + Arhar Dal"
+      }
+    },
+    {
+      "id": 6,
+      "day": "Saturday",
+      "food": {
+        "breakfast": "Aloo Puri + Tea",
+        "lunch": "Rajma + Raita",
+        "snacks": "Coffee",
+        "dinner": "Aloo Nutri + Malka Masar + Sewaiyan"
+      }
+    },
+    {
+      "id": 7,
+      "day": "Sunday",
+      "food": {
+        "breakfast": "Poha + Fruit + Milk + Cornflakes",
+        "lunch": "Chole Bhature + Raita + Chatni",
+        "snacks": "Tea",
+        "dinner": "Butter Masala Chicken/Paneer + Mix Daal"
+      }
+    }
+  ]
+}
